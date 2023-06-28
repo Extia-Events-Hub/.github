@@ -1,6 +1,9 @@
 ![Imagen](https://i.imgur.com/8Lvo13o.jpeg) 
 # Extia events hub
 
+## Organization
+If you want information about sprint organization, design in Figma, available repositories on GitHub, the data diagram, and other details, you can visit our [public Notion page.](https://garylima.notion.site/Extia-Events-Hub-0eeb20c7614c4319aeafd2aa5c8c33de?pvs=4)
+
 ### Disclaimer:
 
 This repository and its contents are part of my participation in the Extia hackathon and are intended solely for educational and development purposes during the event. I am not officially affiliated with Extia and this project is an independent creation. The name "Extia Events Hub" is used herein to describe the functionality and purpose of the project, and should not be construed as a claim of an official association with Extia or the unauthorized use of its intellectual property.
