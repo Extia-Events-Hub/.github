@@ -1,7 +1,7 @@
 ![Imagen](https://i.imgur.com/8Lvo13o.jpeg) 
 # Extia events hub
 
-## 🪧 Organization 🪧
+## 🪧 Organization (This interests you)🪧
 If you want information about sprint organization, design in Figma, available repositories on GitHub, the data diagram, and other details, you can visit our [public Notion page.](https://garylima.notion.site/Extia-Events-Hub-0eeb20c7614c4319aeafd2aa5c8c33de?pvs=4)
 
 ### ℹ️ Disclaimer:
