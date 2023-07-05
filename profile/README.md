@@ -1,6 +1,12 @@
 ![Imagen](https://i.imgur.com/8Lvo13o.jpeg) 
 # Extia events hub
 
+ ## Deployment
+You can access the live demo [here!](https://extia-events-hub-client-nine.vercel.app)
+---
+![DEMO IMG](https://i.imgur.com/75RMfTO.png)
+![DEMO IMG](https://i.imgur.com/zqouE3x.png)
+
 ## 🪧 Organization (This interests you)🪧
 If you want information about sprint organization, design in Figma, available repositories on GitHub, the data diagram, and other details, you can visit our [public Notion page.](https://garylima.notion.site/Extia-Events-Hub-0eeb20c7614c4319aeafd2aa5c8c33de?pvs=4)
 
